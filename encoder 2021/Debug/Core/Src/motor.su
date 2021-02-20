@@ -1,0 +1,4 @@
+motor.c:5:6:start_pwm	8	static
+motor.c:11:6:stop_pwm	8	static
+motor.c:17:16:map	16	static
+motor.c:21:6:set_speed	40	static
